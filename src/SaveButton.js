@@ -1,6 +1,6 @@
 import React from "react";
 
-function SaveButton({ onSavev }) {
+function SaveButton({ onSave }) {
     return (
         <button onClick={onSave}>Save</button>
     )
